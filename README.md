@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zied98
-- 👀 I’m interested in web development,blockchain and crypto.
-- 🌱 I’m currently learning React Js,Node Js and Solidity.
-- 💞️ I’m looking to collaborate on innovative projects and web 3 ecosystem.
+- 👀 I’m interested in AI, ML and NlP.
+- 🌱 I’m currently learning AI automations and AI agents.
+- 💞️ I’m looking to collaborate on innovative projects and AI produc.
 - 📫 How to reach me ...
 
 <!---
